@@ -33,6 +33,6 @@ public class leetcode118 {
     }
 
     public static void main(String[] args) {
-        System.out.println(generate(4));
+        System.out.println(generate(10));
     }
 }
